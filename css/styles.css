@@ -14,8 +14,9 @@ body {
 
 .title {
     letter-spacing: 2px;
-    font-family: 'Petit Formal Script', cursive;
-    font-size: 50px;
+    font-family: 'Playball', cursive;
+    font-size: 60px;
+    font-weight: 300;
 }
 
 a {

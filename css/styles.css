@@ -47,12 +47,14 @@ p {
     width: 95%;
     max-width: 1000px;
     margin: auto;
+    background: rgb(0, 0, 0);
 }
 
 .main-header {
     text-align: center;
     padding: 2.7em 0; 
 }
+
 
 .website-container {
     text-align: center; 
@@ -144,5 +146,6 @@ img {
         flex-wrap: wrap;
         justify-content: space-around;
     }
+
 }
 
